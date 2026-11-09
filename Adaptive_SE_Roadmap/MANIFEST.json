@@ -1,0 +1,177 @@
+{
+  "release": "1.0.0",
+  "created_on": "2026-11-09",
+  "file_count": 34,
+  "files": [
+    {
+      "path": "00_START_HERE.md",
+      "sha256": "5f53e7498aed3f48847e8ec239da52d4bee02c9c567d2c6645ef8d8a4dcc3e5c",
+      "bytes": 7201
+    },
+    {
+      "path": "AGENT_ENTRY.md",
+      "sha256": "0c37cb7d77cac1a48408b02984a89590902d6930918d8d2310139df61e1d42fe",
+      "bytes": 3496
+    },
+    {
+      "path": "SKILL_USAGE.md",
+      "sha256": "8dcbd51215aea5b1afb03595e854a629ac922325374539bb981f2f9b7cd55823",
+      "bytes": 3400
+    },
+    {
+      "path": "docs/01_ROADMAP_MAIN.md",
+      "sha256": "fd8dd9ed0556dd1700894bf80ddca8f88de670340e70662c461c1988761b634a",
+      "bytes": 13587
+    },
+    {
+      "path": "docs/02_COMPETENCY_AND_COURSE_MAP.md",
+      "sha256": "f796a7e62173780dc21dbf80ae6aeb96e75d33bf6921f1bbb7d3867464eb68fe",
+      "bytes": 10790
+    },
+    {
+      "path": "docs/03_CURRENT_STATE.md",
+      "sha256": "e29b76034a2797aeafd32aa132e100660552b8632d56e758ce1a49b0b7375cdd",
+      "bytes": 5616
+    },
+    {
+      "path": "docs/04_EXECUTION_PROTOCOL.md",
+      "sha256": "2febcdac7ce1f794ab39249843b8f2aef3e3d696a40d672e0b6aea813a7e7e12",
+      "bytes": 7880
+    },
+    {
+      "path": "docs/05_CONTEXT_PROFILE.md",
+      "sha256": "91478170bd705948f06dae909f55abedc9813c016dddb97bf7dcf128357ed837",
+      "bytes": 3881
+    },
+    {
+      "path": "docs/06_MARKET_BASELINE.md",
+      "sha256": "c3ac635a79bb148856626cd9b24d13d67d422c5a140c9a3f68d272c28ee3da84",
+      "bytes": 4154
+    },
+    {
+      "path": "docs/07_TODOIST_BRIDGE.md",
+      "sha256": "ffaf6b6ced6671e8c921b2f3dc0f08d07027e448976a70e4e3207348d85157ea",
+      "bytes": 2772
+    },
+    {
+      "path": "docs/08_DATA_CONTRACT.md",
+      "sha256": "d8a4300b23477a1ac4f23fc673e57f505b8756e40dae5b6a042f12259e643b86",
+      "bytes": 6263
+    },
+    {
+      "path": "history/00_EVENT_INDEX.md",
+      "sha256": "fa87fec6c394bbdd79c0259481ae31f84735acce8c6c8bff3177ab3e06a92d4b",
+      "bytes": 840
+    },
+    {
+      "path": "history/01_CHANGELOG.md",
+      "sha256": "654e3b51cc15e9cf35b45046e0982d677814a46e8053cba035282379763b7085",
+      "bytes": 2767
+    },
+    {
+      "path": "history/02_DIAGNOSTICS.md",
+      "sha256": "586fa1386812562020da9add896e3bbfdb404d3d15be569da0e8ae8f3fdeae14",
+      "bytes": 1261
+    },
+    {
+      "path": "history/03_LEARNING_SESSIONS.md",
+      "sha256": "fefc3c85f7cb2875633582d3ec0f12627d5c60b8bae47469c0329da77bb129f5",
+      "bytes": 893
+    },
+    {
+      "path": "history/04_REVIEWS.md",
+      "sha256": "fb1329ae1636bc0a03e708a82a48dec6486ba9edfa875d2ed6138d3129ba287b",
+      "bytes": 1019
+    },
+    {
+      "path": "reference/Core-Plan.md",
+      "sha256": "9888eb4041e28866637e5ab9e31cd4433229de119e4219ae6be121a71b7f3a9e",
+      "bytes": 13493
+    },
+    {
+      "path": "reference/Detail-Information.md",
+      "sha256": "79e88d008c116e584b9a9817505ac8c704ebcce50a110215e1f55a85d0880a89",
+      "bytes": 32069
+    },
+    {
+      "path": "reference/IU_COURSE_INDEX.md",
+      "sha256": "c2a5082015a34181000e6ab339cbc747a11cb65ded77a73dfdddc245406ba2a1",
+      "bytes": 3834
+    },
+    {
+      "path": "reference/IU_REPORT_2026.md",
+      "sha256": "bff6920237f8fc319da92eb5b2e9fd2299db6eafb2be2d02bdbfdbd458250665",
+      "bytes": 172437
+    },
+    {
+      "path": "reference/My_Projects.md",
+      "sha256": "46b59812a8161aa5f81bec496522a77d4133c0c11a28f461b5f48b1dd32f5b28",
+      "bytes": 138187
+    },
+    {
+      "path": "reference/Todoist_document.md",
+      "sha256": "b60076b3255a349c08734294961b455b42e3b90853045c8379dc03b65e2ef30f",
+      "bytes": 105999
+    },
+    {
+      "path": "scripts/validate_docs.py",
+      "sha256": "6e41e94dfaabbfb8cd683b36753da9d33f8fa45a505ba4da86f53a16637ad7b1",
+      "bytes": 3315
+    },
+    {
+      "path": "skills/adaptive-study-planner/SKILL.md",
+      "sha256": "97ad2641b6869bc24424817164a7b202d7dafc59e568a2b56aa7c2c1e7015262",
+      "bytes": 2733
+    },
+    {
+      "path": "skills/market-signal-reviewer/SKILL.md",
+      "sha256": "cf6291ff272b2fcd6b4c831bfdb37f8beadfdfe6c696ce2f8ddf27841d5254fb",
+      "bytes": 2353
+    },
+    {
+      "path": "skills/roadmap-context-loader/SKILL.md",
+      "sha256": "29beef15d829599d8c31f72ba944abc73e30d21f0580656cc9251efe46d1d1eb",
+      "bytes": 2369
+    },
+    {
+      "path": "skills/roadmap-history-manager/SKILL.md",
+      "sha256": "97691bea28d7c17bedf33f131e6f4a734c5326a8e445de4e9660b65675f4a067",
+      "bytes": 2743
+    },
+    {
+      "path": "skills/subject-mastery-coach/SKILL.md",
+      "sha256": "2552151329ab6acccb0e5abea9a25e18039c7fee3aa12c4463d0763e27887ab2",
+      "bytes": 2831
+    },
+    {
+      "path": "subjects/SUB-OOP_COVERAGE.md",
+      "sha256": "1aaf14886972c4c58ca63f61760b1777c4c27be7f7f98f3a7f1e9d17428ae733",
+      "bytes": 2798
+    },
+    {
+      "path": "templates/CHANGE_REQUEST.md",
+      "sha256": "23f5923bf02f2484c84242d50fd9f0240d02828ad31994f1f18cd34560184011",
+      "bytes": 768
+    },
+    {
+      "path": "templates/DIAGNOSTIC_RECORD.md",
+      "sha256": "306b129f5af9802d90a05d55088aa9b5a0f3b0987c54ea32fee82dd9b82929f8",
+      "bytes": 1094
+    },
+    {
+      "path": "templates/LEARNING_SESSION_RECORD.md",
+      "sha256": "ff671694eef0a718b070e31694d947f66adb4b5122455ddaee982987896cfc7f",
+      "bytes": 823
+    },
+    {
+      "path": "templates/REVIEW_RECORD.md",
+      "sha256": "7e6e9e43507685a0d3de992eb95d57ebd3a8d63084453274c46d807003469cc4",
+      "bytes": 688
+    },
+    {
+      "path": "templates/SUBJECT_COVERAGE_TEMPLATE.md",
+      "sha256": "3063eb7662197de309aa96d998298a9970fd735a1590b754aa049181d7e8b302",
+      "bytes": 1631
+    }
+  ]
+}
